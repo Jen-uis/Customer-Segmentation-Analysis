@@ -13,6 +13,7 @@ This project is centered around Customer Segmentation analysis. We aim to provid
 - **Data**: Contains the datasets used for analysis.
 - **Reports**: Documentation and reports generated during the project.
 - **Presentations**: Slides and other materials for presenting our findings.
+- **Proposals**: Documents that report our initial ideas, studies, and finding before launching the analysis.
 
 ## Getting Started
 To get started with the project, clone this repository to your local machine using the following command:
