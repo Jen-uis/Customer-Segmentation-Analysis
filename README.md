@@ -16,6 +16,7 @@ This project will follow the template.
   - Part 2: Customer Segmentation Clustering
   - Part 3: Customer Lifetime Value Prediction
   - Part 4: Feature Importance Analysis
+
 **Section 4**: Model Analysis & Understanding  
 **Section 5**: Conclusion  
 
