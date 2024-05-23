@@ -52,7 +52,7 @@ We welcome contributions ***ONLY*** from our Team 8. If you are a member of Team
 *Note*: If you have successfully push your changes to the branch, Nathaniel will review the final request and merge the changes to `main` if your file is approved.
 
 ## Contact
-If you have any questions or need further information, please contact our team at: szhu094@ucr.edu
+If you have any questions or need further information, please contact our team at: connectnathaniel@gmail.com
 
 Authors:
 - Leader: Nathaniel Zhu
