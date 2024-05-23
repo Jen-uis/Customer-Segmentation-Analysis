@@ -20,10 +20,6 @@ To get started with the project, clone this repository to your local machine usi
 
 `git clone https://github.com/Jen-uis/STAT208_Team8.git`
 
-Make sure you have the necessary Python libraries installed. You can install the required libraries using the following command:
-
-`pip install -r requirements.txt`
-
 ## Usage
 1. Open the Project-Code.ipynb file in Jupyter Notebook.
 2. Follow the instructions in the notebook to run the analyses.
