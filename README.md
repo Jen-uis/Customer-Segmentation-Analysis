@@ -7,6 +7,18 @@ For those who are new to this folder, the `Project-Code.ipynb` and `Project-Code
 ### Project Idea
 This project is centered around Customer Segmentation analysis. We aim to provide better insights into customer behaviors and preferences to help businesses tailor their strategies effectively.
 
+### Project Guideline
+This project will follow the template.
+**Section 1**: Pre-analysis of the Data
+**Section 2**: Descriptive Analysis
+**Section 3**: Model Selection
+    Part 1: Predictive Modeling
+    Part 2: Customer Segmentation Clustering
+    Part 3: Customer Lifetime Value Prediction
+    Part 4: Feature Importance Analysis
+**Section 4**: Model Analysis & Understanding
+**Section 5**: Conclusion
+
 ## Contents
 - **`Project-Code.ipynb`**: Jupyter notebook containing the code for our customer segmentation analysis.
 - **`Project-Code.html`**: HTML export of the Jupyter notebook for easy viewing.
