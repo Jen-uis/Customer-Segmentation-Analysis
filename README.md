@@ -10,7 +10,7 @@ This project is centered around Customer Segmentation analysis. We aim to provid
 ## Contents
 - **Project-Code.ipynb**: Jupyter notebook containing the code for our customer segmentation analysis.
 - **Project-Code.html**: HTML export of the Jupyter notebook for easy viewing.
-- **Data**: Contains the datasets used for analysis.
+- **Data**: Contains the datasets used for analysis. There are `train.csv` and `test.csv`. `train.csv` will be mainly used in descriptive analysis while `test.csv` will be mainly used in building models like predictive modeling.
 - **Reports**: Documentation and reports generated during the project.
 - **Presentations**: Slides and other materials for presenting our findings.
 - **Proposals**: Documents that report our initial ideas, studies, and finding before launching the analysis.
