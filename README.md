@@ -12,8 +12,8 @@ This project is centered around Customer Segmentation analysis. We aim to provid
 - **`Project-Code.html`**: HTML export of the Jupyter notebook for easy viewing.
 - **`Project-Proposals.pdf`**: Documents that report our initial ideas, studies, and finding before launching the analysis.
 - **Data Folder**: Contains the datasets used for analysis. There are `train.csv` and `test.csv`. `train.csv` will be mainly used in descriptive analysis while `test.csv` will be mainly used in building models like predictive modeling.
-- **Reports**: (Not published yet) Documentation and reports generated during the project.
-- **Presentations**: (Not published yet) Slides and other materials for presenting our findings.
+- ~**Reports**: Documentation and reports generated during the project.~ (Not published yet)
+- ~**Presentations**: Slides and other materials for presenting our findings.~ (Not published yet)
 
 ## Getting Started
 To get started with the project, clone this repository to your local machine using the following command:
