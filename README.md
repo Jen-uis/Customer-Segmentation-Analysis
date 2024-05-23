@@ -1,4 +1,4 @@
-# STAT208_Team8
+# Customer Segmentation Analysis
 This repository contains project materials for the Spring 2024 STAT 208 class, specifically for Team 8. All materials are the property of Team 8, University of California, Riverside, A. Gary Anderson School of Management. Please do not republish the materials without authors' consents. 
 
 ## Introduction
