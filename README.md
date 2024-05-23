@@ -12,10 +12,10 @@ This project will follow the template.
 **Section 1**: Pre-analysis of the Data  
 **Section 2**: Descriptive Analysis  
 **Section 3**: Model Selection  
-    Part 1: Predictive Modeling  
-    Part 2: Customer Segmentation Clustering  
-    Part 3: Customer Lifetime Value Prediction  
-    Part 4: Feature Importance Analysis  
+&emspPart 1: Predictive Modeling  
+&emspPart 2: Customer Segmentation Clustering  
+&emspPart 3: Customer Lifetime Value Prediction  
+&emspPart 4: Feature Importance Analysis  
 **Section 4**: Model Analysis & Understanding  
 **Section 5**: Conclusion  
 
