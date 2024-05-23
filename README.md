@@ -1,8 +1,8 @@
 # STAT208_Team8
-This repository contains materials for the Spring 2024 STAT 208 class, specifically for Team 8. All materials are the property of Team 8, University of California, Riverside, A. Gary Anderson School of Management. Please do not republish the materials without authors' consents.
+This repository contains project materials for the Spring 2024 STAT 208 class, specifically for Team 8. All materials are the property of Team 8, University of California, Riverside, A. Gary Anderson School of Management. Please do not republish the materials without authors' consents. 
 
 ## Introduction
-For those who are new to this folder, the `Project-Code.ipynb` and `Project-Code.html` files are our main focus. We are also attaching the documents which we will write for this project. The data is originally obtained from Kaggle.com, link will be attached below. Feel free to explore more options beyond this analysis report.
+For those who are new to this folder, the `Project-Code.ipynb` and `Project-Code.html` files are our main focus. This project is completed using **Python 3.12.0**. We are also attaching the documents which we will write for this project. The data is originally obtained from Kaggle.com, link will be attached below. Feel free to explore more options beyond this analysis report.
 
 ### Project Idea
 This project is centered around Customer Segmentation analysis. We aim to provide better insights into customer behaviors and preferences to help businesses tailor their strategies effectively.
