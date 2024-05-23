@@ -33,7 +33,7 @@ Make sure you have the necessary Python libraries installed. You can install the
 This project is licensed under the MIT License. See the **LICENSE** file for more details.
 
 ## Contributing
-We welcome contributions from the team. Please follow these steps to contribute:
+We welcome contributions ***ONLY*** from our Team 8. If you are a member of Team 8, please follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch:
 
@@ -48,6 +48,8 @@ We welcome contributions from the team. Please follow these steps to contribute:
 `git push origin feature-branch`
 
 5. Create a new Pull Request.
+
+*Note*: If you have successfully push your changes to the branch, Nathaniel will review the final request and merge the changes to `main` if your file is approved.
 
 ## Contact
 If you have any questions or need further information, please contact our team at: szhu094@ucr.edu
