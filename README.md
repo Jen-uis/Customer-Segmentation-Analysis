@@ -9,16 +9,15 @@ This project is centered around Customer Segmentation analysis. We aim to provid
 
 ### Project Guideline
 This project will follow the template.  
-**Section 1**: Pre-analysis of the Data  
-**Section 2**: Descriptive Analysis  
-**Section 3**: Model Selection  
-  - Part 1: Predictive Modeling
-  - Part 2: Customer Segmentation Clustering
-  - Part 3: Customer Lifetime Value Prediction
-  - Part 4: Feature Importance Analysis
-
-**Section 4**: Model Analysis & Understanding  
-**Section 5**: Conclusion  
+1. **Section 1**: Pre-analysis of the Data  
+2. **Section 2**: Descriptive Analysis  
+3. **Section 3**: Model Selection  
+    - Part 1: Predictive Modeling
+    - Part 2: Customer Segmentation Clustering
+    - Part 3: Customer Lifetime Value Prediction
+    - Part 4: Feature Importance Analysis
+4. **Section 4**: Model Analysis & Understanding  
+5. **Section 5**: Conclusion  
 
 ## Contents
 - **`Project-Code.ipynb`**: Jupyter notebook containing the code for our customer segmentation analysis.
