@@ -18,7 +18,7 @@ This project is centered around Customer Segmentation analysis. We aim to provid
 ## Getting Started
 To get started with the project, clone this repository to your local machine using the following command:
 
-`git clone https://github.com/yourusername/STAT208_Team8.git`
+`git clone https://github.com/Jen-uis/STAT208_Team8.git`
 
 Make sure you have the necessary Python libraries installed. You can install the required libraries using the following command:
 
