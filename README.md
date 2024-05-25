@@ -14,9 +14,9 @@ This project will follow the template.
 3. **`Section 3`**: Model Selection  
     - Part 1: Predictive Modeling
     - Part 2: Customer Segmentation Clustering
-    - Part 3: Customer Lifetime Value Prediction
+    - Part 3: Customer Segmentation Prediction (Classification)
     - Part 4: Feature Importance Analysis
-4. **`Section 4`**: Model Analysis & Understanding  
+4. **`Section 4`**: Business Insights / Suggestions
 5. **`Section 5`**: Conclusion  
 
 ## Contents
