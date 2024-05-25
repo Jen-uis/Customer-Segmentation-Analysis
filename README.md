@@ -9,7 +9,7 @@ This project is centered around Customer Segmentation analysis. We aim to provid
 
 ### Project Guideline
 This project will follow the template.  
-1. **`Section 1`**: Pre-analysis of the Data  
+1. **`Section 1`**: Introduction / Why This Topic / Pre-analysis 
 2. **`Section 2`**: Descriptive Analysis  
 3. **`Section 3`**: Model Selection  
     - Part 1: Predictive Modeling
