@@ -30,7 +30,7 @@ This project will follow the template.
 ## Getting Started
 To get started with the project, clone this repository to your local machine using the following command:
 
-`git clone https://github.com/Jen-uis/STAT208_Team8.git`
+`git clone https://github.com/Jen-uis/Customer-Segmentation-Analysis`
 
 ## Usage
 1. Open the Project-Code.ipynb file in Jupyter Notebook.
