@@ -20,12 +20,12 @@ This project will follow the template.
 5. **`Section 5`**: Conclusion  
 
 ## Repository Contents
-- **`Project-Code.ipynb`**: (Done) Jupyter notebook containing the code for our customer segmentation analysis.
+- **`Project-Code.ipynb`**: Jupyter notebook containing the code for our customer segmentation analysis.
 - **`Project-Code.html`**: HTML export of the Jupyter notebook for easy viewing.
 - **`Project-Proposals.pdf`**: Documents that report our initial ideas, studies, and finding before launching the analysis.
 - **`Data Folder`**: Contains the datasets used for analysis. There are `train.csv` and `test.csv`. `train.csv` will be mainly used in descriptive analysis while `test.csv` will be mainly used in building models like predictive modeling. **Disclaimer**: The data is obtained from Kaggle.com [Customer Segmentation Dataset](https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation) published by Abishek Sudarshan. All data are used for educational purposes only. Do not republish original author Sudarshan's work without approval. License: Data files are copyrighted by the original authors.
-- ~**`Final-Reports.docs`**: Documentation and reports generated during the project.~ (Writing in Progress, TBA)
-- ~**`Final-Presentations.pptx`**: Slides and other materials for presenting our findings.~ (Not published yet)
+- ~**`Final-Reports.pdf`**: Documentation and reports generated during the project.
+- ~**`Final-Presentations.pptx`**: Slides and other materials for presenting our findings.~ (In Progress)
 
 ## Getting Started
 To get started with the project, clone this repository to your local machine using the following command:
