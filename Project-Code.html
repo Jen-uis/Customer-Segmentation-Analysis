@@ -7675,7 +7675,6 @@ None
 <th>Family_Size</th>
 <th>Var_1</th>
 <th>Segmentation</th>
-<th>Numeric_spending</th>
 </tr>
 </thead>
 <tbody>
@@ -7692,7 +7691,6 @@ None
 <td>4.0</td>
 <td>Cat_4</td>
 <td>D</td>
-<td>1</td>
 </tr>
 <tr>
 <th>1</th>
@@ -7707,7 +7705,6 @@ None
 <td>3.0</td>
 <td>Cat_4</td>
 <td>A</td>
-<td>2</td>
 </tr>
 <tr>
 <th>2</th>
@@ -7722,7 +7719,6 @@ None
 <td>1.0</td>
 <td>Cat_6</td>
 <td>B</td>
-<td>1</td>
 </tr>
 <tr>
 <th>3</th>
@@ -7737,7 +7733,6 @@ None
 <td>2.0</td>
 <td>Cat_6</td>
 <td>B</td>
-<td>3</td>
 </tr>
 <tr>
 <th>4</th>
@@ -7752,7 +7747,6 @@ None
 <td>6.0</td>
 <td>Cat_6</td>
 <td>A</td>
-<td>3</td>
 </tr>
 </tbody>
 </table>
@@ -9470,7 +9464,7 @@ Approach: Use clustering techniques to identify distinct customer segments.</p>
 <span class="n">test_data</span><span class="p">[</span><span class="s1">'GBC_Segmentation'</span><span class="p">]</span> <span class="o">=</span> <span class="n">test_data</span><span class="p">[</span><span class="s1">'GBC_Segmentation'</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">label_mapping</span><span class="p">)</span>
 
 <span class="c1"># Display the first 5 rows again to verify it works</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">test_data</span><span class="p">[[</span><span class="s1">'ID'</span><span class="p">,</span> <span class="s1">'LogReg_Segmentation'</span><span class="p">,</span> <span class="s1">'RFC_Segmentation'</span><span class="p">,</span> <span class="s1">'GBC_Segmentation'</span><span class="p">]]</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">test_data</span><span class="p">[[</span><span class="s1">'ID'</span><span class="p">,</span> <span class="s1">'LogReg_Segmentation'</span><span class="p">,</span> <span class="s1">'RFC_Segmentation'</span><span class="p">,</span> <span class="s1">'GBC_Segmentation'</span><span class="p">]]</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">))</span>
 </pre></div>
 </div>
 </div>
@@ -9489,6 +9483,11 @@ Approach: Use clustering techniques to identify distinct customer segments.</p>
 2  458996                   A                A                D
 3  459000                   A                C                B
 4  459001                   D                D                D
+5  459003                   C                C                B
+6  459005                   B                A                C
+7  459008                   C                C                C
+8  459013                   C                C                C
+9  459014                   D                D                D
 </pre>
 </div>
 </div>
