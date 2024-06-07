@@ -1,5 +1,7 @@
 # Customer Segmentation Analysis
-This repository contains project materials for the Spring 2024 STAT 208 class, specifically for Team 8. All materials are the property of Team 8, University of California, Riverside, A. Gary Anderson School of Management. Please do not republish the materials without authors' consents. 
+This repository contains project materials for the Spring 2024 STAT 208 class, specifically for Team 8. All materials are the property of Team 8, University of California, Riverside, A. Gary Anderson School of Management. Please do not republish the materials without authors' consents.
+
+This project is made possible with the support from Professor Brandon Wales UCR [@Brandon-Wales](https://www.github.com/Brandon-Wales)
 
 ## Introduction
 For those who are new to this folder, the `Project-Code.ipynb` and `Project-Code.html` files are our main focus. This project is completed using **Python 3.12.0**. We are also attaching the documents which we will write for this project. The data is originally obtained from Kaggle.com, link will be attached below. Feel free to explore more options beyond this analysis report.
@@ -63,7 +65,7 @@ We welcome contributions ***ONLY*** from our Team 8. If you are a member of Team
 If you have any questions or need further information, please contact our team at: connectnathaniel@gmail.com
 
 Authors:
-- Leader: Nathaniel Zhu
+- Leader: Nathaniel Zhu [@Jen-uis](https://www.github.com/Jen-uis)
 - Youyi Fu (Chris)
 - Xiaoya Wei (Shirley)
 - Xujuan Liang (Teresa)
