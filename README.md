@@ -3,6 +3,8 @@ This repository contains project materials for the Spring 2024 STAT 208 class, s
 
 This project is made possible with the support from Professor Brandon Wales UCR [@Brandon-Wales](https://www.github.com/Brandon-Wales)
 
+This project is also available to view on [Kaggle.com](https://www.kaggle.com/code/nathanielz/customer-segmentation-analysis-kagglever), pay a visit and upvote for us!
+
 ## Introduction
 For those who are new to this folder, the `Project-Code.ipynb` and `Project-Code.html` files are our main focus. This project is completed using **Python 3.12.0**. We are also attaching the documents which we will write for this project. The data is originally obtained from Kaggle.com, link will be attached below. Feel free to explore more options beyond this analysis report.
 
